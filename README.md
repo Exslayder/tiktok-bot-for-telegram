@@ -1,5 +1,6 @@
 ## This project is a bot for Telegram that downloads videos from TikTok without a watermark
-![](https://img.shields.io/badge/python3-black?link=https%3A%2F%2Fwww.python.org%2Fdownloads%2F)![](https://img.shields.io/badge/yt%20dlp-%238B0000?link=https%3A%2F%2Fpypi.org%2Fproject%2Fyt-dlp%2F)![](https://img.shields.io/badge/telebot-%230000CD?link=pip%20install%20pyTelegramBotAPI)
+![Static Badge](https://img.shields.io/badge/python3-telebot-blue?link=https%3A%2F%2Fpypi.org%2Fproject%2FpyTelegramBotAPI%2F)![Static Badge](https://img.shields.io/badge/python3-yt_dlp-red?link=https%3A%2F%2Fpypi.org%2Fproject%2Fyt-dlp%2F)
+
 
 ## How start
 
@@ -34,9 +35,7 @@
 
     > **This ID** will help you to use the bot on your Telegram account only. This feature is available to prevent other users from using the bot.
 
-    > How to create a bot and get **TOKEN**:
-
-    ![How to create a bot and get TOKEN](https://assets-global.website-files.com/5d4bc52e7ec3666956bd3bf1/5ebd37e590f1424c4abfa1c2_botfather.jpg)
+    > How to create a bot and get **TOKEN**:![How to create a bot and get TOKEN](https://assets-global.website-files.com/5d4bc52e7ec3666956bd3bf1/5ebd37e590f1424c4abfa1c2_botfather.jpg)
 
 ## Launch
 
