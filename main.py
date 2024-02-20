@@ -5,7 +5,7 @@ import time
 
 bot = telebot.TeleBot("TOKEN") # Token from BotFather telegram
 
-allowed_user_id = TOKEN  # For personal use in restricted access
+allowed_user_id = YOUR_ID  # For personal use in restricted access
 
 # Command Start
 
@@ -101,11 +101,11 @@ while True:
         bot.polling(none_stop=True)
     except Exception as e:
         current_attempt += 1
-        print(f"Произошла ошибка: {str(e)}")
+        print(f"An error has occurred: {str(e)}")
         if current_attempt >= max_attempts:
-            print("Достигнуто максимальное количество попыток. Остановка приложения.")
+            print("The maximum number of attempts has been reached. Stopping the application.")
             break
         else:
             print(
-                f"Повторная попытка получения обновления. Попытка №{current_attempt}")
+                f"Trying to get the update again. Attempt №{current_attempt}")
             time.sleep(10)  # Pause before trying again
