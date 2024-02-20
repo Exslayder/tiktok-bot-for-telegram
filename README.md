@@ -19,13 +19,13 @@
 
    3.1 Replace the word <span style='color:#BC8F8F'>**TOKEN**</span> with the token of your created bot
 
-   ```bash
+   ```
    bot = telebot.TeleBot("TOKEN")
    ```
 
    3.2 Find out your ID using [**@userinfobot**](https://t.me/userinfobot) and replace the phrase <span style='color:red'>**YOUR_ID**</span>
 
-   ```bash
+   ```
    allowed_user_id = YOUR_ID
    ```
 
