@@ -22,13 +22,13 @@
     3.1 Replace the word **TOKEN** with the token of your created bot:
 
     ```bash
-    bot = telebot.TeleBot("TOKEN")
+    API_TOKEN= TOKEN
     ```
 
     3.2 Find out your ID using [**@userinfobot**](https://t.me/userinfobot) and replace the phrase **YOUR_ID**:
 
     ```bash
-    allowed_user_id = YOUR_ID
+    ALLOWED_USER_ID = YOUR_ID
     ```
 
     > [**@BotFather**](https://t.me/BotFather) and [**@userinfobot**](https://t.me/userinfobot) are the names of the bots in telegram.
@@ -51,4 +51,4 @@
    python main.py
    ```
 
-3. Send the video link to your bot and get the result.
+3. 🔥🔥🔥 Send the video link to your bot and get the result. 🔥🔥🔥
